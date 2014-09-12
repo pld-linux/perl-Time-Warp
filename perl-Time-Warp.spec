@@ -9,7 +9,7 @@ Summary:	Time::Warp - control over the flow of time
 Summary(pl.UTF-8):	Time::Warp - kontrola nad upływem czasu
 Name:		perl-Time-Warp
 Version:	0.5
-Release:	4
+Release:	5
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
