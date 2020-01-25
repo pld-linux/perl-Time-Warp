@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Time
 %define	pnam	Warp
 Summary:	Time::Warp - control over the flow of time
