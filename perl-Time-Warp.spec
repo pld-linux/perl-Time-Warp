@@ -7,13 +7,13 @@
 Summary:	Time::Warp - control over the flow of time
 Summary(pl.UTF-8):	Time::Warp - kontrola nad upływem czasu
 Name:		perl-Time-Warp
-Version:	0.5
-Release:	20
+Version:	0.55
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-authors/id/J/JP/JPRIT/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	33652a9dfdc11366ddba95efe6432a51
+Source0:	http://www.cpan.org/modules/by-authors/id/M/MA/MANWAR/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	abf1cfd96fd35612fcf4d91fc8add379
 URL:		http://search.cpan.org/dist/Time-Warp/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
